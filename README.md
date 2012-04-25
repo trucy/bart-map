@@ -4,11 +4,11 @@
 
 An open source BART system map I designed for developers who want to include a simple BART map in their applications.
 
-#Source
+##Source
 
-The 'app map' is available in AI and .png formats at http://www.bart.gov/schedules/developers/maps.aspx
+The 'app map' is available on github and on BART's website in AI and .png formats at http://www.bart.gov/schedules/developers/maps.aspx
 
-#Author
+##Author
 
 Trucy Phan, trucy.phan@gmail.com
 
