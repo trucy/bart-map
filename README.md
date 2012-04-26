@@ -8,7 +8,7 @@ Layers not shown in the above screenshot include geographic region labels and ap
 
 ##Source
 
-The 'app map' is available [on github](https://github.com/trucy/bart-map) and [on BART's website](http://www.bart.gov/schedules/developers/maps.aspx) in AI and .png formats.
+The 'app map' is available on [github](https://github.com/trucy/bart-map) and [BART's website](http://www.bart.gov/schedules/developers/maps.aspx) in AI and .png formats.
 
 ##Example
 
@@ -18,11 +18,11 @@ Use the AI file to change the base map, line colors and widths, fonts, and more.
 
 ##Contributing
 
-Pull requests with updates are welcome
+Pull requests with updates are welcome.
 
 ##Projects using this map
 
-* http://baytripper.org/
+* [BayTripper](http://baytripper.org/)
 
 Did you do something cool with this map or include it in your app? Email me a link at trucy@blinktag.com and I'll check it out.
 
