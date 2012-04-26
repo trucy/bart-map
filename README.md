@@ -1,4 +1,4 @@
-![BART System Map](https://img.skitch.com/20120426-m7mieadpnbgreqjygp7iqfhimg.jpg)
+![BART System Map](https://raw.github.com/trucy/bart-map/master/etc/BART_cc_map_small.jpg)
 
 #BART System Map
 
@@ -12,7 +12,7 @@ The 'app map' is available on github and on BART's website in AI and .png format
 
 Use the AI file to change the base map, line colors and widths, fonts, and more. 
 
-![BART System Map in black and white ](https://img.skitch.com/20120426-pcgw9y4jxjx5ja9pkhwykqq96u.jpg)
+![BART System Map in black and white ](https://raw.github.com/trucy/bart-map/master/etc/BART_cc_map_bw_small.jpg)
 
 ##Author
 
