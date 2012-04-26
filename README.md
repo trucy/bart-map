@@ -22,7 +22,7 @@ Pull requests with updates are welcome
 
 ##Projects using this map
 
-*http://baytripper.org/
+* http://baytripper.org/
 
 Did you do something cool with this map or include it in your app? Email me a link at trucy@blinktag.com and I'll check it out.
 
