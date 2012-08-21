@@ -22,8 +22,10 @@ Pull requests with updates are welcome.
 
 ##Projects using this map
 
-* [BART Runner](https://play.google.com/store/apps/details?id=com.dougkeen.bart&rdid=com.dougkeen.bart&rdot=1)
+* [BART Runner](https://play.google.com/store/apps/details?id=com.dougkeen.bart&rdid=com.dougkeen.bart)
+* [BART Smiling Ride](https://play.google.com/store/apps/details?id=com.mobispectra.android.apps.srbart)
 * [BayTripper](http://baytripper.org/)
+* [HopStop](http://www.hopstop.com/)
 
 Did you do something cool with this map or include it in your app? Email me a link at trucy@blinktag.com and I'll check it out.
 
