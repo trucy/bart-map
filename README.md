@@ -12,7 +12,7 @@ The 'app map' is available on [github](https://github.com/trucy/bart-map) and [B
 
 ##Example
 
-Use the AI file to change the base map, line colors and widths, fonts, and more. 
+Use the AI file to change the base map, line colors and widths, fonts, etc. 
 
 ![BART System Map in (almost) black and white ](https://raw.github.com/trucy/bart-map/master/etc/BART_cc_map_bw_small.jpg)
 
@@ -27,7 +27,7 @@ Pull requests with updates are welcome.
 * [BayTripper](http://baytripper.org/)
 * [HopStop](http://www.hopstop.com/)
 
-Did you do something cool with this map or include it in your app? Email me a link at trucy@blinktag.com and I'll add it to the list.
+Did you do something cool with this map or use it in your app? Email me at trucy@blinktag.com and I'll add it to the list.
 
 ##Author
 
