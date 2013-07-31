@@ -26,6 +26,8 @@ Pull requests with updates are welcome.
 * [BART Smiling Ride](https://play.google.com/store/apps/details?id=com.mobispectra.android.apps.srbart)
 * [BayTripper](http://baytripper.org/)
 * [HopStop](http://www.hopstop.com/)
+* [Easy BART](https://itunes.apple.com/us/app/easy-bart/id567074135)
+* [Zakharymallettbart.com](http://www.zakharymallettbart.com/)
 
 Did you do something cool with this map or use it in your app? Email me at trucy@blinktag.com and I'll add it to the list.
 
