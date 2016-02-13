@@ -25,7 +25,7 @@ Pull requests with updates are welcome.
 * [BART App](https://play.google.com/store/apps/details?id=com.bartapp)
 * [BART Runner](https://play.google.com/store/apps/details?id=com.dougkeen.bart&rdid=com.dougkeen.bart)
 * [BART Smiling Ride](https://play.google.com/store/apps/details?id=com.mobispectra.android.apps.srbart)
-* [Bike Hub](http://bikehub.com/bartbikestation/)
+* [BikeHub](http://bikehub.com/bartbikestation/)
 * [Citymapper](https://citymapper.com/sf-bay-area/)
 * [Easy BART](https://itunes.apple.com/us/app/easy-bart/id567074135)
 * [Zakhary Mallett, BART District 7 Director](http://www.zakharymallettbart.com/)
