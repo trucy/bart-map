@@ -2,7 +2,7 @@
 
 #BART System Map
 
-An open source BART system map I designed for developers who want to include a simple BART map in their applications.
+An open source BART system map I designed in 2012 for developers who want to include a simple BART map in their applications.
 
 Layers not shown in the above screenshot include geographic region labels and approximate minutes between stations.
 
@@ -22,12 +22,14 @@ Pull requests with updates are welcome.
 
 ##Projects using this map
 
+* [BART App](https://play.google.com/store/apps/details?id=com.bartapp)
 * [BART Runner](https://play.google.com/store/apps/details?id=com.dougkeen.bart&rdid=com.dougkeen.bart)
 * [BART Smiling Ride](https://play.google.com/store/apps/details?id=com.mobispectra.android.apps.srbart)
-* [BayTripper](http://baytripper.org/)
-* [HopStop](http://www.hopstop.com/)
+* [Bike Hub](http://bikehub.com/bartbikestation/)
+* [City Mapper](https://citymapper.com/sf-bay-area/)
 * [Easy BART](https://itunes.apple.com/us/app/easy-bart/id567074135)
 * [Zakhary Mallett, BART District 7 Director](http://www.zakharymallettbart.com/)
+* [WikiHow](http://www.wikihow.com/Ride-Bay-Area-Rapid-Transit-(BART))
 
 Did you do something cool with this map or use it in your app? Email me at trucy@blinktag.com and I'll add it to the list.
 
