@@ -1,14 +1,12 @@
-![BART System Map](https://raw.github.com/trucy/bart-map/master/etc/BART_cc_map_small.jpg)
-
 # BART System Map
 
 An open source BART system map I designed in 2012 for developers who want to include a simple BART map in their applications.
 
-Layers not shown in the above screenshot include geographic region labels and approximate minutes between stations.
-
 # Changelog
 
-2017-09-02
+2017-09-02 (current)
+
+![BART System Map](https://raw.github.com/trucy/bart-map/master/etc/2017-09-02_BART_map_cropped.png)
 
 * Added Warm Springs/South Fremont station
 * Removed reference to AirBART bus service, as it's been discontinued
@@ -16,7 +14,13 @@ Layers not shown in the above screenshot include geographic region labels and ap
 * Cleaned up the legend
 * Reduced width of map
 * Reduced opacity of base map from 40% to 25%
-* Reduced stroke from 3 to 1 on transfer stations
+* Reduced stroke from 3 pt to 1 pt on transfer stations
+
+2012-04-25
+
+![BART System Map](https://raw.github.com/trucy/bart-map/master/etc/BART_cc_map_small.jpg)
+
+* First version of map
 
 ## Source
 
