@@ -6,6 +6,16 @@ An open source BART system map I designed in 2012 for developers who want to inc
 
 Layers not shown in the above screenshot include geographic region labels and approximate minutes between stations.
 
+#Changelog
+
+2017-09-02
+
+* Add Warm Springs/South Fremont station
+* Edit station names
+* Cleaner legend
+* Remove reference to AirBART bus service, as it's been discontinued
+
+
 ##Source
 
 The 'app map' is available on [github](https://github.com/trucy/bart-map) and [BART's website](http://www.bart.gov/schedules/developers/maps.aspx) in AI and .png formats.
