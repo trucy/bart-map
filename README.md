@@ -10,11 +10,12 @@ Layers not shown in the above screenshot include geographic region labels and ap
 
 2017-09-02
 
-* Add Warm Springs/South Fremont station
-* Edit station names
-* Cleaner legend
-* Remove reference to AirBART bus service, as it's been discontinued
-
+* Added Warm Springs/South Fremont station
+* Removed reference to AirBART bus service, as it's been discontinued
+* Edited a few station names
+* Cleaned up the legend
+* Reduced width of map
+* Reduced opacity of base map from 40% to 25%
 
 ## Source
 
