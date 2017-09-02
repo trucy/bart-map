@@ -1,12 +1,12 @@
 ![BART System Map](https://raw.github.com/trucy/bart-map/master/etc/BART_cc_map_small.jpg)
 
-#BART System Map
+# BART System Map
 
 An open source BART system map I designed in 2012 for developers who want to include a simple BART map in their applications.
 
 Layers not shown in the above screenshot include geographic region labels and approximate minutes between stations.
 
-#Changelog
+# Changelog
 
 2017-09-02
 
@@ -16,21 +16,21 @@ Layers not shown in the above screenshot include geographic region labels and ap
 * Remove reference to AirBART bus service, as it's been discontinued
 
 
-##Source
+## Source
 
 The 'app map' is available on [github](https://github.com/trucy/bart-map) and [BART's website](http://www.bart.gov/schedules/developers/maps.aspx) in AI and .png formats.
 
-##Example
+## Example
 
 Use the AI file to change the base map, line colors and widths, fonts, etc. 
 
 ![BART System Map in (almost) black and white ](https://raw.github.com/trucy/bart-map/master/etc/BART_cc_map_bw_small.jpg)
 
-##Contributing
+## Contributing
 
 Pull requests with updates are welcome.
 
-##Projects using this map
+## Projects using this map
 
 * [BART App](https://play.google.com/store/apps/details?id=com.bartapp)
 * [BART Runner](https://play.google.com/store/apps/details?id=com.dougkeen.bart&rdid=com.dougkeen.bart)
@@ -43,10 +43,10 @@ Pull requests with updates are welcome.
 
 Did you do something cool with this map or use it in your app? Email me at trucy@blinktag.com and I'll add it to the list.
 
-##Author
+## Author
 
 Trucy Phan
 
-##License and copyright
+## License and copyright
 
 This work is licensed under a Creative Commons Attribution 3.0 Unported License.
