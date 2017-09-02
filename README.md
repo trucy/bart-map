@@ -16,6 +16,7 @@ Layers not shown in the above screenshot include geographic region labels and ap
 * Cleaned up the legend
 * Reduced width of map
 * Reduced opacity of base map from 40% to 25%
+* Reduced stroke from 3 to 1 on transfer stations
 
 ## Source
 
